@@ -1,2 +1,2 @@
 # nawth-landing
-shell for nawth website
+shell for nawth concept
