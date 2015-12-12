@@ -42,3 +42,22 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+body {
+  background: url("../img/dark-map.png");
+  background-position: center;
+  background-size: cover;
+  color: #FFF;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Arimo', sans-serif;
+}
+
+#content h1 {
+  font-family: 'Arimo', sans-serif;
+  font-size: 54px;
+}
+
+#content {
+  margin-top: 200px;
+}
